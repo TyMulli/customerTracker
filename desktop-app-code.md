@@ -467,5 +467,3 @@ if __name__ == "__main__":
 3. **Backup Data**: Export CSV files regularly
 4. **Validation**: Application validates inputs and shows error messages
 5. **Database**: SQLite database file created automatically in application folder
-
-This desktop application provides a complete solution for tracking customer acquisition and churn metrics with professional charts and data management capabilities.
