@@ -88,7 +88,7 @@ Annual Churn Rate = 1 - (1 - Monthly Churn Rate)^12
 
 ### Data Entry
 - Enter data consistently each month
-- Use YYYY-MM date format (e.g., 2024-01)
+- Use YYYY-MM date format (e.g., 2025-01)
 - Include all acquisition costs (marketing, sales, overhead)
 - Track both voluntary and involuntary churn
 
@@ -166,5 +166,3 @@ CustomerTracker/
 - **Revenue Impact**: Understand revenue loss patterns
 - **Product Improvement**: Find areas for enhancement
 - **Customer Success**: Proactive retention efforts
-
-Start tracking your customer metrics today and gain insights into your business growth!
